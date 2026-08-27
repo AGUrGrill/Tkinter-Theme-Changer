@@ -152,19 +152,6 @@ coffee_theme = Theme(
     foreground_color_success="green3",
     foreground_color_accept="cornflowerblue"
 )
-torrent_theme = Theme(
-    theme_name="torrent", 
-    background_color="#4d6a9c", 
-    background_color_alt="#2e4a7c", 
-    button_color="whitesmoke",
-    button_color_active="SystemButtonFace", 
-    button_foreground_color="#2e4a7c",
-    foreground_color="white", 
-    foreground_color_disabled="lightsteelblue",
-    foreground_color_error="red3", 
-    foreground_color_success="springgreen3",
-    foreground_color_accept="royalblue3"
-)
 snowwitch_theme = Theme(
     theme_name="snowwitch", 
     background_color="white", 
