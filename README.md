@@ -6,6 +6,7 @@ Created by AGU.
 Provides a drop in solution to quickly swap between and create custom themes for any tkinter program.
 
 Features:
+    
     Classes: 
         ThemeChanger() - The main utility of the package. Allows for setting global theme, updating all widgets to specified theme, and adding new themes to global list.
         Theme() - Used for creating and modifying custom themes.
